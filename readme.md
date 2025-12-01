@@ -10,6 +10,7 @@ const CHROME_PATH = 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
 ```
 
 ```sh
+$ git clone
 $ npm install
 $ node app
 ```
