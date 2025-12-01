@@ -3,7 +3,7 @@
 IMDB's top 250 list scraper for nodejs
 inspired by [https://github.com/ahmetozantekin/imdb-top250-node/tree/master](https://github.com/ahmetozantekin/imdb-top250-node/tree/master)
 
-// ⭐️ 로컬 환경에서 Puppeteer의 내장 Chromium 대신 시스템 Chrome/Edge 사용을 위한 경로 설정
+// ⭐️ 로컬 환경에서 Puppeteer의 내장 Chromium 대신 시스템 Chrome/Edge 사용을 위한 경로 설정  
 // ⚠️ 사용자님께서는 이 경로를 본인의 Chrome/Edge 실행 파일 경로로 꼭 바꿔주셔야 합니다.
 const CHROME_PATH = 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe';
 
