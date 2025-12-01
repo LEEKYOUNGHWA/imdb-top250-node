@@ -13,6 +13,7 @@ const CHROME_PATH = 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
 ## 실행방법
 
 ```sh
+$ git clone
 $ npm install
 $ node app
 ```
