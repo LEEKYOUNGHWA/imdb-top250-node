@@ -1,0 +1,14 @@
+{
+  "name": "imdb-top250-node",
+  "version": "2.0.0",
+  "description": "IMDB's top 250 list scraper for nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "puppeteer": "^24.31.0"
+  }
+}
